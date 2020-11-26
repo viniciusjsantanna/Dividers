@@ -1,7 +1,5 @@
 # Estrutura do Projeto <br>
-   *Application* <br>
-   *Presentation*
- 
+   
    #Application# <br>
       É a camada responsável por receber o pedido do controller e realizar tratativas em cima dos dados passados.<br>
       *CQRS<br>
