@@ -18,6 +18,6 @@
       
   Obs.: Foi utilizado a biblioteca MediatR para simular o conceito do Design Pattern Mediator entre o controller e os handlers da camada de application
        
-#Rodando o projeto - Passo a Passo#
+#Rodando o projeto - Passo a Passo# <br>
   Após baixar o projeto abrir a aba Gerenciador de Soluções, expandir a pasta Presentation e clicar com o botão direito em cima do projeto Dividers.Presentation.WebAPI
   e clicar na opção Definir como projeto de Inicialização, após ter feito isso pode apertar o botão F5 e o projeto será iniciado.
