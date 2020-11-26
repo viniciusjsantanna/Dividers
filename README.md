@@ -11,13 +11,13 @@
       *IoC<br>
        -> Pasta onde foi configurado a inversão de controle referente a camada de application.<br>
   
-  #Presentation<br>
+  #Presentation#<br>
     É a camada onde estão os controllers que receberão as requisições e serão responsáveis por delegar para a camada de application realizar os próximos passos.<br>
       *Controllers <br>
        -> Pasta onde fica os controllers que delegarão as requisições para os handlers que estão na camada de application.
       
   Obs.: Foi utilizado a biblioteca MediatR para simular o conceito do Design Pattern Mediator entre o controller e os handlers da camada de application
        
-#Rodando o projeto - Passo a Passo
+#Rodando o projeto - Passo a Passo#
   Após baixar o projeto abrir a aba Gerenciador de Soluções, expandir a pasta Presentation e clicar com o botão direito em cima do projeto Dividers.Presentation.WebAPI
   e clicar na opção Definir como projeto de Inicialização, após ter feito isso pode apertar o botão F5 e o projeto será iniciado.
