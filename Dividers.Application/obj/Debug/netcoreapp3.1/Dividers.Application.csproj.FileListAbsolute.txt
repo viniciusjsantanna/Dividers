@@ -1,0 +1,9 @@
+C:\Users\vinicius.santana\source\repos\Dividers\Dividers.Application\bin\Debug\netcoreapp3.1\Dividers.Application.deps.json
+C:\Users\vinicius.santana\source\repos\Dividers\Dividers.Application\bin\Debug\netcoreapp3.1\Dividers.Application.dll
+C:\Users\vinicius.santana\source\repos\Dividers\Dividers.Application\obj\Debug\netcoreapp3.1\Dividers.Application.csprojAssemblyReference.cache
+C:\Users\vinicius.santana\source\repos\Dividers\Dividers.Application\obj\Debug\netcoreapp3.1\Dividers.Application.AssemblyInfoInputs.cache
+C:\Users\vinicius.santana\source\repos\Dividers\Dividers.Application\obj\Debug\netcoreapp3.1\Dividers.Application.AssemblyInfo.cs
+C:\Users\vinicius.santana\source\repos\Dividers\Dividers.Application\bin\Debug\netcoreapp3.1\Dividers.Application.pdb
+C:\Users\vinicius.santana\source\repos\Dividers\Dividers.Application\obj\Debug\netcoreapp3.1\Dividers.Application.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.santana\source\repos\Dividers\Dividers.Application\obj\Debug\netcoreapp3.1\Dividers.Application.dll
+C:\Users\vinicius.santana\source\repos\Dividers\Dividers.Application\obj\Debug\netcoreapp3.1\Dividers.Application.pdb
