@@ -17,38 +17,38 @@ namespace Dividers.Application.CQRS.Dividers.Commands.Calculate
             this.response = response;
         }
         public Response response { get; set; }
-        const int MAX_SIZE = 15000;
         public Task<Response> Handle(CalculateDividersCommand request, CancellationToken cancellationToken)
         {
+            if(request.Number == 0)
+            {
+                return response.Generate(message: Constants.ErrorMessage, hasError: true);
+            }
             var numbers = new NumbersDTO();
-            var divisores = new List<string>();
-            var numeros = new List<int>();
-            var contador = request.Number - 1;
-            for (int i = contador; i > 0; i--)
+            var dividirs = new List<string>();
+            var listNumber = new List<int>();
+            var counter = request.Number - 1;
+            for (int i = counter; i > 0; i--)
             {
                 if (request.Number % i == 0)
                 {
-                    numeros.Add(i);
+                    listNumber.Add(i);
                 }
             }
 
-            var primos = numeros.Where(e => IsNumeroPrimo(e)).ToList();
-            numbers.Dividers = numeros;
-            numbers.Primes = primos;
+            numbers.Dividers = listNumber;
+            numbers.Primes = listNumber.Where(e => IsPrime(e)).ToList();
             return response.Generate(result: numbers);
         }
 
-        private bool IsNumeroPrimo(int numero)
+        private bool IsPrime(int number)
         {
-            bool bPrimo = true;
-            int fator = numero / 2;
-            int i = 0;
-            for (i = 2; i <= fator; i++)
+            bool isPrime = true;
+            for (int i = 2; i <= number / 2; i++)
             {
-                if ((numero % i) == 0)
-                    bPrimo = false;
+                if ((number % i) == 0)
+                    isPrime = false;
             }
-            return bPrimo;
+            return isPrime;
         }
     }
 }

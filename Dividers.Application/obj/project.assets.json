@@ -156,11 +156,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vinicius.santana\\source\\repos\\Dividers\\Dividers.Application\\Dividers.Application.csproj",
+      "projectUniqueName": "C:\\Users\\vinicius.santana\\Desktop\\Dividers\\Dividers.Application\\Dividers.Application.csproj",
       "projectName": "Dividers.Application",
-      "projectPath": "C:\\Users\\vinicius.santana\\source\\repos\\Dividers\\Dividers.Application\\Dividers.Application.csproj",
+      "projectPath": "C:\\Users\\vinicius.santana\\Desktop\\Dividers\\Dividers.Application\\Dividers.Application.csproj",
       "packagesPath": "C:\\Users\\vinicius.santana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vinicius.santana\\source\\repos\\Dividers\\Dividers.Application\\obj\\",
+      "outputPath": "C:\\Users\\vinicius.santana\\Desktop\\Dividers\\Dividers.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vinicius.santana\\AppData\\Roaming\\NuGet\\NuGet.Config",

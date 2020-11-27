@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ozw2crAQnj/t1YN3Me2jWaOiLuNs0HS97ClAuPZ33agTui8xw/nblTdD8nBHn81NQ3Fna92uDv+9sRrasiyyXA==",
+  "dgSpecHash": "YiuiCynetdW9uAXw5onW2pyZ2761Tlpz3+sPLobQTWU1bQL7Hhs7ryCJSy79r7J43RIjygwI4alTZF20co5Q/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vinicius.santana\\source\\repos\\Dividers\\Dividers.Application\\Dividers.Application.csproj",
+  "projectFilePath": "C:\\Users\\vinicius.santana\\Desktop\\Dividers\\Dividers.Application\\Dividers.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vinicius.santana\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\vinicius.santana\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",

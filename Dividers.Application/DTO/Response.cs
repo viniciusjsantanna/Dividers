@@ -9,11 +9,12 @@ namespace Dividers.Application.DTO
     {
         public object Result { get; private set; }
         public string Message { get; private set; }
-
-        public Task<Response> Generate(object result = default, string message = default)
+        public bool hasError { get; set; }
+        public Task<Response> Generate(object result = default, string message = default, bool hasError = default)
         {
             this.Result = result;
             this.Message = message;
+            this.hasError = hasError;
             return Task.FromResult(this);
         }
     }

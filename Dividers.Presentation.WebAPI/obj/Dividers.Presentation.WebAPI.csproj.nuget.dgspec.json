@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vinicius.santana\\source\\repos\\Dividers\\Dividers.Presentation.WebAPI\\Dividers.Presentation.WebAPI.csproj": {}
+    "C:\\Users\\vinicius.santana\\Desktop\\Dividers\\Dividers.Presentation.WebAPI\\Dividers.Presentation.WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vinicius.santana\\source\\repos\\Dividers\\Dividers.Application\\Dividers.Application.csproj": {
+    "C:\\Users\\vinicius.santana\\Desktop\\Dividers\\Dividers.Application\\Dividers.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinicius.santana\\source\\repos\\Dividers\\Dividers.Application\\Dividers.Application.csproj",
+        "projectUniqueName": "C:\\Users\\vinicius.santana\\Desktop\\Dividers\\Dividers.Application\\Dividers.Application.csproj",
         "projectName": "Dividers.Application",
-        "projectPath": "C:\\Users\\vinicius.santana\\source\\repos\\Dividers\\Dividers.Application\\Dividers.Application.csproj",
+        "projectPath": "C:\\Users\\vinicius.santana\\Desktop\\Dividers\\Dividers.Application\\Dividers.Application.csproj",
         "packagesPath": "C:\\Users\\vinicius.santana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinicius.santana\\source\\repos\\Dividers\\Dividers.Application\\obj\\",
+        "outputPath": "C:\\Users\\vinicius.santana\\Desktop\\Dividers\\Dividers.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vinicius.santana\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -74,14 +74,14 @@
         }
       }
     },
-    "C:\\Users\\vinicius.santana\\source\\repos\\Dividers\\Dividers.Presentation.WebAPI\\Dividers.Presentation.WebAPI.csproj": {
+    "C:\\Users\\vinicius.santana\\Desktop\\Dividers\\Dividers.Presentation.WebAPI\\Dividers.Presentation.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinicius.santana\\source\\repos\\Dividers\\Dividers.Presentation.WebAPI\\Dividers.Presentation.WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\vinicius.santana\\Desktop\\Dividers\\Dividers.Presentation.WebAPI\\Dividers.Presentation.WebAPI.csproj",
         "projectName": "Dividers.Presentation.WebAPI",
-        "projectPath": "C:\\Users\\vinicius.santana\\source\\repos\\Dividers\\Dividers.Presentation.WebAPI\\Dividers.Presentation.WebAPI.csproj",
+        "projectPath": "C:\\Users\\vinicius.santana\\Desktop\\Dividers\\Dividers.Presentation.WebAPI\\Dividers.Presentation.WebAPI.csproj",
         "packagesPath": "C:\\Users\\vinicius.santana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinicius.santana\\source\\repos\\Dividers\\Dividers.Presentation.WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\vinicius.santana\\Desktop\\Dividers\\Dividers.Presentation.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vinicius.santana\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -97,8 +97,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\vinicius.santana\\source\\repos\\Dividers\\Dividers.Application\\Dividers.Application.csproj": {
-                "projectPath": "C:\\Users\\vinicius.santana\\source\\repos\\Dividers\\Dividers.Application\\Dividers.Application.csproj"
+              "C:\\Users\\vinicius.santana\\Desktop\\Dividers\\Dividers.Application\\Dividers.Application.csproj": {
+                "projectPath": "C:\\Users\\vinicius.santana\\Desktop\\Dividers\\Dividers.Application\\Dividers.Application.csproj"
               }
             }
           }
