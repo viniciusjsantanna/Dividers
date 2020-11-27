@@ -2,16 +2,16 @@
    
    # Application <br>
       É a camada responsável por receber o pedido do controller e realizar tratativas em cima dos dados passados.
-      *CQRS 
+      CQRS 
         -> Pasta responsável por simular o conceito de separação lógica entre commandos e consultas, onde ficarão os handlers para realizar o calculo.
-      *DTO
+      DTO
         -> Pasta onde foram criados os objetos de transferência de dados.
-      *IoC 
+      IoC 
        -> Pasta onde foi configurado a inversão de controle referente a camada de application.
   
   # Presentation <br>
        É a camada onde estão os controllers que receberão as requisições e serão responsáveis por delegar para a camada de application realizar os próximos passos.
-       *Controllers 
+       Controllers 
          -> Pasta onde fica os controllers que delegarão as requisições para os handlers que estão na camada de application.
       
   Obs.: Foi utilizado a biblioteca MediatR para simular o conceito do Design Pattern Mediator entre o controller e os handlers da camada de application
